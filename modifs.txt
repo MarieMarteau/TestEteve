@@ -1,0 +1,14 @@
+Modifications apportées :
+
+- après le test de Marie-Paule Cani :
+	- appuyer sur la flèche et pas sur la plaque
+	- insister sur X
+	- avion et indicateur dans le meme sens
+	- améliorer navigation
+	- taille police homogène
+	- indiquer valeur référence
+	
+	
+	
+	vert = correct
+	fin
